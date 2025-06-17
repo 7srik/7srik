@@ -31,11 +31,8 @@ At Accenture, I developed full-stack applications with **Node.js** and **React.j
 - [LinkedIn Profile](https://www.linkedin.com/in/sri-krishna-karumanchi/)  
 - [Portfolio Profile](https://srikrishnakarumanchi.my.canva.site/)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=7srik&exclude=jupyter)](https://github.com/7srik/github-readme-stats)
+[![Top Langs]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=7srik&exclude=jupyter)](https://github.com/7srik/github-readme-stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=7srik&exclude_repo=Crash-Course-in-Statistical-Learning-in-the-Context-of-Data-Science,Machine_Learning_Report_CSGO,Neural-Network-Type-Classification-CSGO-dataset,Model_Interpretability_and_Shap_analysis_in_machine_learning,Auto_ML_CSGO_Round_Winner,ML_Data_Cleaning_And_Feature_Selection)](https://github.com/7srik/github-readme-stats))
 
-After Removing Jupyter Notebook ->  
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=7srik&exclude_repo=Crash-Course-in-Statistical-Learning-in-the-Context-of-Data-Science,Machine_Learning_Report_CSGO,Neural-Network-Type-Classification-CSGO-dataset,Model_Interpretability_and_Shap_analysis_in_machine_learning,Auto_ML_CSGO_Round_Winner,ML_Data_Cleaning_And_Feature_Selection)](https://github.com/7srik/github-readme-stats)
 
 
 Feel free to reach out for collaboration or job opportunities!
